@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores primárias do aplicativo -->
+    <color name="primary">#1565C0</color>
+    <color name="primaryVariant">#0D47A1</color>
+    <color name="secondary">#00ACC1</color>
+
+    <!-- Cores de fundo e texto -->
+    <color name="background">#FAFAFA</color>
+    <color name="primaryText">#0D1333</color>
+    <color name="secondaryText">#5F6B77</color>
+
+    <!-- Cores dos botões -->
+    <color name="buttonColor">#1976D2</color>
+    <color name="buttonColorSecondary">#00B8D4</color>
+
+    <!-- Cores genéricas -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
